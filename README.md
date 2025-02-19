@@ -1,0 +1,1 @@
+# Regulament-Server-Vipuri
