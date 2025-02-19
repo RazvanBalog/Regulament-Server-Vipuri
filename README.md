@@ -1,4 +1,3 @@
-Regulament-Server
 Regulament Vipuri Roleplay
 1. DESPRE VIPURI ROLEPLAY (RP)
 Roleplay, abreviat RP, este un termen utilizat pe serverele cu mod Roleplay. Acesta reprezintă simularea sau reproducerea unei vieți reale într-un mediu virtual. În contextul nostru, fiecare persoană își poate crea o viață virtuală în orașul Vipuri, având un rol diferit, o înfățișare diferită și calități unice. Pe scurt, termenul RP se referă la recrearea unei vieți reale într-o viață virtual.
